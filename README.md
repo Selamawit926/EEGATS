@@ -44,3 +44,6 @@ Test Taker credentials:
     - Password: admin1243
 
 OTP: 123456
+
+## Documentation
+[User Manual](https://drive.google.com/file/d/1Rv-DmUa9LlpoDWd8GHisGrZBQvXXFh9o/view?usp=sharing)

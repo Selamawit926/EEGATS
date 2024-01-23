@@ -15,6 +15,6 @@ export default defineNuxtConfig({
     supabaseUrl: process.env.SUPABASE_URL,
     supabaseKey: process.env.SUPABASE_KEY,
   },
-  auth: { origin: process.env.AUTH_ORIGIN },
+  // auth: { origin: process.env.AUTH_ORIGIN },
   
 });

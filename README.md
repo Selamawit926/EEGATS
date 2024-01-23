@@ -3,7 +3,6 @@ Ethiopian Exam Generation and Testing System
 
 ## Links
 
-
 ## Technologies
 
 - [TypeScript](https://www.typescriptlang.org/)

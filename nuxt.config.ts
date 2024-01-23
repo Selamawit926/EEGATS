@@ -15,6 +15,6 @@ export default defineNuxtConfig({
     supabaseUrl: process.env.SUPABASE_URL,
     supabaseKey: process.env.SUPABASE_KEY,
   },
-  auth: { origin: "https://eegats.vercel.app/" },
+  auth: { origin: process.env.AUTH_ORIGIN },
   
 });
